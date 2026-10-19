@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-224-utix-add-accessibility-regression-coverage-for",
+    "fix/issue-231-utix-create-synthetic-journey-monitor-for-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-224-utix-add-accessibility-regression-coverage-for": "main",
+    "fix/issue-231-utix-create-synthetic-journey-monitor-for-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-224-utix-add-accessibility-regression-coverage-for",
+    "fix/issue-231-utix-create-synthetic-journey-monitor-for-the",
+    "origin"
+  ]
+}
